@@ -1,6 +1,9 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+
 body {
     background-color: rgb(108, 177, 209);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
 }
 
 #h1 {
